@@ -8,6 +8,7 @@ body {
   
   height: 100vh;
   margin: 0;
+  display: flex;
   background-color: #152238;
   color: #5F8575;
   padding: 0;
@@ -35,6 +36,7 @@ body {
   width: 10px;
   background-color: rgb(255, 255, 255);
   border-radius: 50px;
+  
 }
 
 .input-container {
@@ -79,3 +81,4 @@ button:hover {
   background-color: #7EC8E3;
   transform: scale(1.1);
 }
+
